@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scrolltext.iml" filepath="$PROJECT_DIR$/scrolltext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrolltext.iml" filepath="$PROJECT_DIR$/.idea/modules/scrolltext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scrolltext.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scrolltext.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scrolltext.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scrolltext.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scrolltext.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scrolltext.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/scrolltext.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/scrolltext.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/scrolltext.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/scrolltext.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/scrolltext.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/scrolltext.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/scrolltext.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/scrolltext.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/scrolltext.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/scrolltext.library.unitTest.iml" />
     </modules>
   </component>
 </project>
